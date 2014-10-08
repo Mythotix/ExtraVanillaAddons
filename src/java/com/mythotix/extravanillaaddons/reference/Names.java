@@ -5,6 +5,8 @@ public final class Names
     public static final class Items
     {
         public static final String DIAMOND_STAR = "diamondStar";
+
+        public static final String NETHER_STAR_FRAGMENT = "netherStarFragment";
     }
 
     public static final class Blocks
