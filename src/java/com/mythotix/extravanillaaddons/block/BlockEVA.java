@@ -1,5 +1,6 @@
 package com.mythotix.extravanillaaddons.block;
 
+import com.mythotix.extravanillaaddons.creativetab.CreativeTabEVA;
 import com.mythotix.extravanillaaddons.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,11 +13,13 @@ public class BlockEVA extends Block
     public BlockEVA(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabEVA.EVA_TAB);
     }
 
     public BlockEVA()
     {
         this(Material.rock);
+        this.setCreativeTab(CreativeTabEVA.EVA_TAB);
     }
 
     @Override

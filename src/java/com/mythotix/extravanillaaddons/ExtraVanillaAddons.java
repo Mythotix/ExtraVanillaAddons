@@ -1,6 +1,7 @@
 package com.mythotix.extravanillaaddons;
 
 import com.mythotix.extravanillaaddons.handler.ConfigurationHandler;
+import com.mythotix.extravanillaaddons.init.ModBlocks;
 import com.mythotix.extravanillaaddons.init.ModItems;
 import com.mythotix.extravanillaaddons.proxy.IProxy;
 import com.mythotix.extravanillaaddons.reference.Reference;
@@ -27,6 +28,8 @@ public class ExtraVanillaAddons
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         ModItems.init();
+
+        ModBlocks.init();
     }
 
     @Mod.EventHandler

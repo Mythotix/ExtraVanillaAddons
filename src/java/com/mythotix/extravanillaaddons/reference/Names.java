@@ -9,7 +9,7 @@ public final class Names
 
     public static final class Blocks
     {
-
+        public static final String STONE_STAIRS = "stoneStairs";
     }
 
     public static final class Keys
