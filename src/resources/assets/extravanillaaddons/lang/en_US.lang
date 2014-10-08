@@ -1,5 +1,5 @@
 # Blocks
-tile.extravanillaaddons:smoothStoneStairs=Stone Stairs
+tile.extravanillaaddons:stoneStairs.name=Stone Stairs
 
 # Creative Tabs
 itemGroup.extravanillaaddons=Extra Vanilla Addons
