@@ -14,6 +14,7 @@ public class BlockStairsEVA extends BlockStairs
     {
         super(p_i45428_1_, p_i45428_2_);
         this.setCreativeTab(CreativeTabEVA.EVA_TAB);
+        this.setStepSound(soundTypeStone);
         this.setLightOpacity(0);
     }
 
