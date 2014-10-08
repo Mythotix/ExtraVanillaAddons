@@ -1,8 +1,10 @@
 package com.mythotix.extravanillaaddons;
 
+import com.mythotix.extravanillaaddons.Utility.LogHelper;
 import com.mythotix.extravanillaaddons.handler.ConfigurationHandler;
 import com.mythotix.extravanillaaddons.init.ModBlocks;
 import com.mythotix.extravanillaaddons.init.ModItems;
+import com.mythotix.extravanillaaddons.init.Recipes;
 import com.mythotix.extravanillaaddons.proxy.IProxy;
 import com.mythotix.extravanillaaddons.reference.Reference;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -30,17 +32,21 @@ public class ExtraVanillaAddons
         ModItems.init();
 
         ModBlocks.init();
+
+        LogHelper.info("Pre Initialization Complete!");
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
+        Recipes.init();
 
+        LogHelper.info("Initialization Complete!");
     }
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-
+        LogHelper.info("Post Initialization Complete!");
     }
 }

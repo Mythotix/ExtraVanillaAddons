@@ -182,3 +182,35 @@
 [15:08:13] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [15:08:13] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [15:08:13] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:21:45] [main/INFO] [GradleStart]: username: tdogg10@hotmail.com
+[15:21:45] [main/INFO] [GradleStart]: Extra: []
+[15:21:45] [main/INFO] [GradleStart]: Password found, attempting login
+[15:21:46] [main/INFO] [GradleStart]: Login Succesful!
+[15:21:46] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, AnnihilateCats, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, c526ccbd41844a5caf125eb71775f625, --assetsDir, C:/Users/TJ/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[15:21:47] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:21:47] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:21:47] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:25:29] [main/INFO] [GradleStart]: username: tdogg10@hotmail.com
+[15:25:29] [main/INFO] [GradleStart]: Extra: []
+[15:25:29] [main/INFO] [GradleStart]: Password found, attempting login
+[15:25:30] [main/INFO] [GradleStart]: Login Succesful!
+[15:25:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, AnnihilateCats, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, c526ccbd41844a5caf125eb71775f625, --assetsDir, C:/Users/TJ/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[15:25:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:25:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:25:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:28:29] [main/INFO] [GradleStart]: username: tdogg10@hotmail.com
+[15:28:29] [main/INFO] [GradleStart]: Extra: []
+[15:28:29] [main/INFO] [GradleStart]: Password found, attempting login
+[15:28:30] [main/INFO] [GradleStart]: Login Succesful!
+[15:28:31] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, AnnihilateCats, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, c526ccbd41844a5caf125eb71775f625, --assetsDir, C:/Users/TJ/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[15:28:31] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:28:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:28:31] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:37:28] [main/INFO] [GradleStart]: username: tdogg10@hotmail.com
+[15:37:28] [main/INFO] [GradleStart]: Extra: []
+[15:37:28] [main/INFO] [GradleStart]: Password found, attempting login
+[15:37:29] [main/INFO] [GradleStart]: Login Succesful!
+[15:37:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, AnnihilateCats, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, c526ccbd41844a5caf125eb71775f625, --assetsDir, C:/Users/TJ/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[15:37:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:37:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:37:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

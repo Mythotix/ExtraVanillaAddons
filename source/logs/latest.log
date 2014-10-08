@@ -1,25 +1,32 @@
-[15:08:12] [main/INFO]: Logging in with username & password
-[15:08:19] [main/INFO]: Setting user: AnnihilateCats
-[15:08:22] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:08:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
-[15:08:30] [Sound Library Loader/INFO]: Sound engine started
-[15:08:33] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:08:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:08:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
-[15:08:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:08:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:08:34] [Sound Library Loader/INFO]: Sound engine started
-[15:08:47] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:08:47] [Server thread/INFO]: Generating keypair
-[15:08:48] [Server thread/INFO]: Preparing start region for level 0
-[15:08:49] [Server thread/INFO]: AnnihilateCats[local:E:8d2b8d33] logged in with entity id 210 at (226.0270459024119, 4.5, 932.7785368580103)
-[15:08:49] [Server thread/INFO]: AnnihilateCats joined the game
-[15:09:52] [Client thread/INFO]: Stopping!
-[15:09:52] [Server thread/INFO]: Stopping server
-[15:09:52] [Server thread/INFO]: Saving players
-[15:09:52] [Server thread/INFO]: Saving worlds
-[15:09:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:09:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:09:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:09:52] [Client Shutdown Thread/INFO]: Stopping server
-[15:09:52] [Client Shutdown Thread/INFO]: Saving players
+[15:37:28] [main/INFO]: Logging in with username & password
+[15:37:35] [main/INFO]: Setting user: AnnihilateCats
+[15:37:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:37:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
+[15:37:46] [Sound Library Loader/INFO]: Sound engine started
+[15:37:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:37:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:37:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
+[15:37:49] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:37:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:37:50] [Sound Library Loader/INFO]: Sound engine started
+[15:37:58] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:37:58] [Server thread/INFO]: Generating keypair
+[15:37:59] [Server thread/INFO]: Preparing start region for level 0
+[15:38:07] [Server thread/INFO]: Stopping server
+[15:38:07] [Server thread/INFO]: Saving players
+[15:38:07] [Server thread/INFO]: Saving worlds
+[15:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:38:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:38:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:38:08] [Server thread/INFO]: Generating keypair
+[15:38:08] [Server thread/INFO]: Preparing start region for level 0
+[15:38:09] [Server thread/INFO]: AnnihilateCats[local:E:73e90d2d] logged in with entity id 386 at (229.59460271871313, 4.0, 932.9681652040375)
+[15:38:09] [Server thread/INFO]: AnnihilateCats joined the game
+[15:38:47] [Client thread/INFO]: Stopping!
+[15:38:47] [Server thread/INFO]: Stopping server
+[15:38:47] [Server thread/INFO]: Saving players
+[15:38:47] [Server thread/INFO]: Saving worlds
+[15:38:47] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:38:47] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:38:47] [Server thread/INFO]: Saving chunks for level 'New World'/The End
