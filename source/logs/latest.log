@@ -1,8 +1,8 @@
-[01:08:09] [main/INFO]: Setting user: Player906
-[01:08:12] [Client thread/INFO]: LWJGL Version: 2.9.1
-[01:08:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
-[01:08:23] [Sound Library Loader/INFO]: Sound engine started
-[01:08:26] [Client thread/ERROR]: Using missing texture, unable to load extravanillaaddons:textures/blocks/stoneStairs.png
+[01:20:02] [main/INFO]: Setting user: Player346
+[01:20:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:20:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
+[01:20:16] [Sound Library Loader/INFO]: Sound engine started
+[01:20:20] [Client thread/ERROR]: Using missing texture, unable to load extravanillaaddons:textures/blocks/stoneStairs.png
 java.io.FileNotFoundException: extravanillaaddons:textures/blocks/stoneStairs.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -32,11 +32,11 @@ java.io.FileNotFoundException: extravanillaaddons:textures/blocks/stoneStairs.pn
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[01:08:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[01:08:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[01:08:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
-[01:08:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[01:08:28] [Client thread/ERROR]: Using missing texture, unable to load extravanillaaddons:textures/blocks/stoneStairs.png
+[01:20:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:20:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:20:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Extra Vanilla Addons
+[01:20:22] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:20:22] [Client thread/ERROR]: Using missing texture, unable to load extravanillaaddons:textures/blocks/stoneStairs.png
 java.io.FileNotFoundException: extravanillaaddons:textures/blocks/stoneStairs.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -69,20 +69,22 @@ java.io.FileNotFoundException: extravanillaaddons:textures/blocks/stoneStairs.pn
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_67]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_67]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[01:08:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[01:08:29] [Sound Library Loader/INFO]: Sound engine started
-[01:08:42] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[01:08:42] [Server thread/INFO]: Generating keypair
-[01:08:43] [Server thread/INFO]: Preparing start region for level 0
-[01:08:44] [Server thread/INFO]: Preparing spawn area: 72%
-[01:08:46] [Server thread/INFO]: Player906[local:E:f13ef7d1] logged in with entity id 193 at (415.0367021496883, 4.0, 976.3160347057282)
-[01:08:46] [Server thread/INFO]: Player906 joined the game
-[01:08:52] [Server thread/INFO]: Player906 has just earned the achievement [Taking Inventory]
-[01:08:52] [Client thread/INFO]: [CHAT] Player906 has just earned the achievement [Taking Inventory]
-[01:09:01] [Client thread/INFO]: Stopping!
-[01:09:01] [Server thread/INFO]: Stopping server
-[01:09:01] [Server thread/INFO]: Saving players
-[01:09:01] [Server thread/INFO]: Saving worlds
-[01:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[01:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[01:09:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:20:22] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:20:23] [Sound Library Loader/INFO]: Sound engine started
+[01:20:44] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[01:20:44] [Server thread/INFO]: Generating keypair
+[01:20:45] [Server thread/INFO]: Preparing start region for level 0
+[01:20:46] [Server thread/INFO]: Preparing spawn area: 46%
+[01:20:47] [Server thread/INFO]: Player346[local:E:f3c40cfa] logged in with entity id 193 at (415.0367021496883, 4.0, 976.3160347057282)
+[01:20:47] [Server thread/INFO]: Player346 joined the game
+[01:20:55] [Server thread/INFO]: Player346 has just earned the achievement [Taking Inventory]
+[01:20:55] [Client thread/INFO]: [CHAT] Player346 has just earned the achievement [Taking Inventory]
+[01:21:08] [Client thread/INFO]: Stopping!
+[01:21:08] [Server thread/INFO]: Stopping server
+[01:21:08] [Server thread/INFO]: Saving players
+[01:21:08] [Server thread/INFO]: Saving worlds
+[01:21:08] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:21:08] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:21:08] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:21:08] [Client Shutdown Thread/INFO]: Stopping server
+[01:21:08] [Client Shutdown Thread/INFO]: Saving players
