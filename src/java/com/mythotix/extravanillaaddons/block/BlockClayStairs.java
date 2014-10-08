@@ -1,14 +1,12 @@
 package com.mythotix.extravanillaaddons.block;
 
-import com.mythotix.extravanillaaddons.reference.Names;
-import net.minecraft.init.Blocks;
+import net.minecraft.block.Block;
 
 public class BlockClayStairs extends BlockStairsEVA
 {
-    public BlockClayStairs()
+    public BlockClayStairs(Block block, int number)
     {
-        super(Blocks.hardened_clay, 0);
-        this.setBlockName(Names.Blocks.CLAY_STAIRS);
+        super(block, number);
         this.setHardness(1.25F);
         this.setResistance(7.0F);
     }

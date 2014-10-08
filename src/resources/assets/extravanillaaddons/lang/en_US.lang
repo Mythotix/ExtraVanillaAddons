@@ -1,6 +1,22 @@
 # Blocks
 tile.extravanillaaddons:clayStairs.name=Hardened Clay Stairs
 tile.extravanillaaddons:stoneStairs.name=Smooth Stone Stairs
+tile.extravanillaaddons:whiteClayStairs.name=White Stained Clay Stairs
+tile.extravanillaaddons:orangeClayStairs.name=Orange Stained Clay Stairs
+tile.extravanillaaddons:magentaClayStairs.name=Magenta Stained Clay Stairs
+tile.extravanillaaddons:lightBlueClayStairs.name=Light Blue Stained Clay Stairs
+tile.extravanillaaddons:yellowClayStairs.name=Yellow Stained Clay Stairs
+tile.extravanillaaddons:limeClayStairs.name=Lime Stained Clay Stairs
+tile.extravanillaaddons:pinkClayStairs.name=Pink Stained Clay Stairs
+tile.extravanillaaddons:grayClayStairs.name=Gray Stained Clay Stairs
+tile.extravanillaaddons:lightGrayClayStairs.name=Light Gray Stained Clay Stairs
+tile.extravanillaaddons:cyanClayStairs.name=Cyan Stained Clay Stairs
+tile.extravanillaaddons:purpleClayStairs.name=Purple Stained Clay Stairs
+tile.extravanillaaddons:blueClayStairs.name=Blue Stained Clay Stairs
+tile.extravanillaaddons:brownClayStairs.name=Brown Stained Clay Stairs
+tile.extravanillaaddons:greenClayStairs.name=Green Stained Clay Stairs
+tile.extravanillaaddons:redClayStairs.name=Red Stained Clay Stairs
+tile.extravanillaaddons:blackClayStairs.name=Black Stained Clay Stairs
 
 # Creative Tabs
 itemGroup.extravanillaaddons=Extra Vanilla Addons

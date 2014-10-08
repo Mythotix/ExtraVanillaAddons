@@ -2,11 +2,8 @@ package com.mythotix.extravanillaaddons.block;
 
 import com.mythotix.extravanillaaddons.creativetab.CreativeTabEVA;
 import com.mythotix.extravanillaaddons.reference.Reference;
-import cpw.mods.fml.relauncher.Side;
-import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockStairs;
-import net.minecraft.client.renderer.texture.IIconRegister;
 
 public class BlockStairsEVA extends BlockStairs
 {
