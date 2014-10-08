@@ -9,7 +9,7 @@ public class BlockClayStairs extends BlockStairsEVA
     {
         super(Blocks.hardened_clay, 0);
         this.setBlockName(Names.Blocks.CLAY_STAIRS);
-        setHardness(1.25F);
-        setResistance(7.0F);
+        this.setHardness(1.25F);
+        this.setResistance(7.0F);
     }
 }

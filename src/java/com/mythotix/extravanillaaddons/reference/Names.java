@@ -13,6 +13,7 @@ public final class Names
     {
         public static final String STONE_STAIRS = "stoneStairs";
         public static final String CLAY_STAIRS = "clayStairs";
+        public static final String STAINED_CLAY_DUMMY = "stainedClayDummy";
     }
 
     public static final class Keys

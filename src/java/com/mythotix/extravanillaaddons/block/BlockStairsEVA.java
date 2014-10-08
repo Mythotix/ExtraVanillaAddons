@@ -10,9 +10,9 @@ import net.minecraft.client.renderer.texture.IIconRegister;
 
 public class BlockStairsEVA extends BlockStairs
 {
-    public BlockStairsEVA(Block p_i45428_1_, int p_i45428_2_)
+    public BlockStairsEVA(Block block, int number)
     {
-        super(p_i45428_1_, p_i45428_2_);
+        super(block, number);
         this.setCreativeTab(CreativeTabEVA.EVA_TAB);
         this.setStepSound(soundTypeStone);
         this.setLightOpacity(0);
@@ -22,13 +22,6 @@ public class BlockStairsEVA extends BlockStairs
     public String getUnlocalizedName()
     {
         return String.format("tile.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
-    }
-
-    @Override
-    @SideOnly(Side.CLIENT)
-    public void registerBlockIcons(IIconRegister iconRegister)
-    {
-        blockIcon = iconRegister.registerIcon(String.format("%s", getUnwrappedUnlocalizedName(this.getUnlocalizedName())));
     }
 
     protected String getUnwrappedUnlocalizedName(String unlocalizedName)
