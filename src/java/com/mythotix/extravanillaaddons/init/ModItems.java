@@ -8,13 +8,13 @@ import com.mythotix.extravanillaaddons.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
-public class ModItems
-{
+public class ModItems{
+
     public static final ItemEVA diamondStar = new ItemDiamondStar();
     public static final ItemEVA netherStarFragment = new ItemNetherStarFragment();
 
-    public static void init()
-    {
+    public static void init(){
+
         GameRegistry.registerItem(diamondStar, Names.Items.DIAMOND_STAR);
         GameRegistry.registerItem(netherStarFragment, Names.Items.NETHER_STAR_FRAGMENT);
     }

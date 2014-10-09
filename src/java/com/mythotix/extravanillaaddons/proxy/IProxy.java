@@ -1,5 +1,4 @@
 package com.mythotix.extravanillaaddons.proxy;
 
-public interface IProxy
-{
+public interface IProxy{
 }

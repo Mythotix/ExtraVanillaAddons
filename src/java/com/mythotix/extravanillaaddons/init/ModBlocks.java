@@ -8,8 +8,8 @@ import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Blocks;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
-public class ModBlocks
-{
+public class ModBlocks{
+
     public static final BlockStoneStairs stoneStairs = new BlockStoneStairs();
     public static final BlockClayStairs clayStairs = (BlockClayStairs) new BlockClayStairs(Blocks.hardened_clay, 0).setBlockName(Names.Blocks.CLAY_STAIRS);
     public static final BlockClayStairs whiteClayStairs = (BlockClayStairs) new BlockClayStairs(Blocks.stained_hardened_clay, 0).setBlockName(Names.Blocks.WHITE_CLAY_STAIRS);
@@ -29,8 +29,8 @@ public class ModBlocks
     public static final BlockClayStairs redClayStairs = (BlockClayStairs) new BlockClayStairs(Blocks.stained_hardened_clay, 14).setBlockName(Names.Blocks.RED_CLAY_STAIRS);
     public static final BlockClayStairs blackClayStairs = (BlockClayStairs) new BlockClayStairs(Blocks.stained_hardened_clay, 15).setBlockName(Names.Blocks.BLACK_CLAY_STAIRS);
 
-    public static void init()
-    {
+    public static void init(){
+
         GameRegistry.registerBlock(stoneStairs, Names.Blocks.STONE_STAIRS);
         GameRegistry.registerBlock(clayStairs, Names.Blocks.CLAY_STAIRS);
         GameRegistry.registerBlock(whiteClayStairs, Names.Blocks.WHITE_CLAY_STAIRS);
