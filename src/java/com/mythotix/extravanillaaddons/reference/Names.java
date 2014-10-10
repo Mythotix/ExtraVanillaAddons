@@ -33,6 +33,8 @@ public final class Names{
 
     public static final class Keys{
 
-
+        public static final String CATEGORY = "keys.extravanillaaddons.category";
+        public static final String CHARGE = "keys.extravanillaaddons.charge";
+        public static final String RELEASE = "keys.extravanillaaddons.release";
     }
 }

@@ -1,3 +1,6 @@
+# Creative Tabs
+itemGroup.extravanillaaddons=Extra Vanilla Addons
+
 # Blocks
 tile.extravanillaaddons:clayStairs.name=Hardened Clay Stairs
 tile.extravanillaaddons:stoneStairs.name=Smooth Stone Stairs
@@ -18,9 +21,11 @@ tile.extravanillaaddons:greenClayStairs.name=Green Stained Clay Stairs
 tile.extravanillaaddons:redClayStairs.name=Red Stained Clay Stairs
 tile.extravanillaaddons:blackClayStairs.name=Black Stained Clay Stairs
 
-# Creative Tabs
-itemGroup.extravanillaaddons=Extra Vanilla Addons
-
 # Items
 item.extravanillaaddons:diamondStar.name=Diamond Star
 item.extravanillaaddons:netherStarFragment.name=Nether Star Fragment
+
+# Keys
+keys.extravanillaaddons.category=Extra Vanilla Addons
+keys.extravanillaaddons.a=A
+keys.extravanillaaddons.b=B
