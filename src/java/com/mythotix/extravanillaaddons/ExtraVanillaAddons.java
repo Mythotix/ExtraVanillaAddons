@@ -1,7 +1,6 @@
 package com.mythotix.extravanillaaddons;
 
 import com.mythotix.extravanillaaddons.Utility.LogHelper;
-import com.mythotix.extravanillaaddons.client.handler.KeyInputEventHandler;
 import com.mythotix.extravanillaaddons.handler.ConfigurationHandler;
 import com.mythotix.extravanillaaddons.init.ModBlocks;
 import com.mythotix.extravanillaaddons.init.ModItems;
